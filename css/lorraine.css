@@ -1,0 +1,35 @@
+/***********************************
+****	Custom style sheet 		****
+***********************************/
+
+body {
+	font-size: 15px;
+}
+
+p {
+	font-size: 17px;
+}
+
+.top-bar {
+	font-size: 13px;
+}
+
+footer p {
+	font-size: 15px;
+}
+
+.footer-bottom p {
+	font-size: 12px;
+}
+
+label.error {
+	color: red;
+	font-weight: normal;
+}
+
+/*	HOME PAGE 	*/
+.banner p {
+	font-size: 17px;
+}
+
+/*   REFLEXOLOGY	 */
