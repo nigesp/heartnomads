@@ -116,7 +116,7 @@ Version      : 1.0
 		$('a.fancybox').fancybox();
 
 		//Contact Map
-		var mapInfo = {"lat":"-33.9986201", "lon":"22.6140917"}; //Change a map coordinate here!
+		var mapInfo = {"lat":"-33.991347", "lon":"22.5308183"}; //Change a map coordinate here!
 		try {
 			$('.map').gmap3({
 				action: 'addMarker',
